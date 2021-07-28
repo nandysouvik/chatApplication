@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/chatApllication/static/css/main.141685a3.chunk.css",
-    "main.js": "/chatApllication/static/js/main.7ff0f64c.chunk.js",
-    "main.js.map": "/chatApllication/static/js/main.7ff0f64c.chunk.js.map",
-    "runtime-main.js": "/chatApllication/static/js/runtime-main.0c4c619d.js",
-    "runtime-main.js.map": "/chatApllication/static/js/runtime-main.0c4c619d.js.map",
-    "static/js/2.e4673994.chunk.js": "/chatApllication/static/js/2.e4673994.chunk.js",
-    "static/js/2.e4673994.chunk.js.map": "/chatApllication/static/js/2.e4673994.chunk.js.map",
-    "static/js/3.6cc037b0.chunk.js": "/chatApllication/static/js/3.6cc037b0.chunk.js",
-    "static/js/3.6cc037b0.chunk.js.map": "/chatApllication/static/js/3.6cc037b0.chunk.js.map",
-    "index.html": "/chatApllication/index.html",
-    "precache-manifest.799a37b5c8042d085950e54d7056ed33.js": "/chatApllication/precache-manifest.799a37b5c8042d085950e54d7056ed33.js",
-    "service-worker.js": "/chatApllication/service-worker.js",
-    "static/css/main.141685a3.chunk.css.map": "/chatApllication/static/css/main.141685a3.chunk.css.map"
+    "main.css": "/chatApplication/static/css/main.141685a3.chunk.css",
+    "main.js": "/chatApplication/static/js/main.7ff0f64c.chunk.js",
+    "main.js.map": "/chatApplication/static/js/main.7ff0f64c.chunk.js.map",
+    "runtime-main.js": "/chatApplication/static/js/runtime-main.e6cbf1d4.js",
+    "runtime-main.js.map": "/chatApplication/static/js/runtime-main.e6cbf1d4.js.map",
+    "static/js/2.e4673994.chunk.js": "/chatApplication/static/js/2.e4673994.chunk.js",
+    "static/js/2.e4673994.chunk.js.map": "/chatApplication/static/js/2.e4673994.chunk.js.map",
+    "static/js/3.6cc037b0.chunk.js": "/chatApplication/static/js/3.6cc037b0.chunk.js",
+    "static/js/3.6cc037b0.chunk.js.map": "/chatApplication/static/js/3.6cc037b0.chunk.js.map",
+    "index.html": "/chatApplication/index.html",
+    "precache-manifest.8feb6c57c45bacb1fcd563c85331e790.js": "/chatApplication/precache-manifest.8feb6c57c45bacb1fcd563c85331e790.js",
+    "service-worker.js": "/chatApplication/service-worker.js",
+    "static/css/main.141685a3.chunk.css.map": "/chatApplication/static/css/main.141685a3.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c4c619d.js",
+    "static/js/runtime-main.e6cbf1d4.js",
     "static/js/2.e4673994.chunk.js",
     "static/css/main.141685a3.chunk.css",
     "static/js/main.7ff0f64c.chunk.js"
